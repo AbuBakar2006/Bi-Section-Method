@@ -28,7 +28,7 @@ The solver uses the following parameters defined in the script:
 
 The project consists of a single Python script that runs in the console:
 
-1.  **`main.py`**: (Or your filename) Contains the function definition, logic loop, and user input handling.
+1.  **`Bi-Section Method.py`**: Contains the function definition, logic loop, and user input handling.
 
 ## 💻 How to Run
 
@@ -37,20 +37,12 @@ This project requires **NumPy**. If you don't have it, install it via pip:
 
 ```bash
 pip install numpy
-
-## 💻 How to Run
-
-### 1. Compile
-Run the following command in your terminal to build the project:
-
-```bash
-g++ main.cpp -o lexer
 ```
 
 ### 2. Run the Script
 Execute the python file in your terminal
 ```bash
-python main.py
+Bi-Section Method.py
 ```
 
 ### 3. Input
